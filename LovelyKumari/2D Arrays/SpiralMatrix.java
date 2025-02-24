@@ -62,6 +62,6 @@ public class SpiralMatrix {
         SpiralMatrix obj=new SpiralMatrix();
         List<Integer> answer=obj.spiralOrder(matrix);
 
-        System.out.println("Output: " + answer);  
+        System.out.println("Output: " + answer);
     } 
 }
