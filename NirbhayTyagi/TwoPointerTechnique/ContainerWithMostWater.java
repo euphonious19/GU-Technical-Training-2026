@@ -29,3 +29,9 @@ class ContainerWithMostWater{
 
     }
 }
+
+//time complexity of the function is : O(nlogn)
+//space complexity of the function is : O(1)
+
+//time complexity of the whole program is : O(nlogn)
+//space complexity of the whole program is : O(n)
