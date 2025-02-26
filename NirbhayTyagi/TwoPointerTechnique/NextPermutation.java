@@ -45,3 +45,9 @@ class NextPermutation{
         }
     }
 }
+
+//time complexity of the function is : O(n)
+//space complexity of the function is : O(1)
+
+//time complexity of the function is : O(n) + O(n)
+//space complexity of the function is : O(n)
